@@ -1,0 +1,30 @@
+
+Este arquivo contém todas as bibliotecas necessárias para executar o projeto corretamente. Certifique-se de instalar esses pacotes antes de rodar os scripts.
+
+## Bibliotecas Necessárias
+
+As seguintes bibliotecas serão utilizadas:
+
+- `pandas`: Para manipulação e análise de dados.
+- `numpy`: Para cálculos e operações vetoriais.
+- `matplotlib`: Para visualização de dados com gráficos personalizáveis.
+- `seaborn`: Para visualização de dados e análises estatísticas.
+- `scikit-learn`: Para implementação de algoritmos de machine learning.
+- `pickle`: Para salvar e carregar modelos treinados.
+
+## Como Instalar
+
+Para instalar todas as dependências necessárias, execute o seguinte comando no terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
+Se desejar instalar manualmente, use:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn pickle
+```
+
+Agora você está pronto para executar o projeto!
+
