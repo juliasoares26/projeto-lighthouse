@@ -1,14 +1,12 @@
 # projeto-lighthouse
 
-# Projeto de Predição de Preços de Imóveis
-
 ## Descrição
 
 Este projeto analisa dados de precificação de imóveis utilizando técnicas de análise exploratória de dados (EDA) e um modelo de machine learning para previsão de preços.
 
 ## Requisitos
 
-Antes de executar o projeto, é necessário instalar algumas dependências. Este projeto foi desenvolvido utilizando **Python 3.12 e requer a instalação do **Miniconda** para gerenciamento de ambientes virtuais.
+Antes de executar o projeto, é necessário instalar algumas dependências. Este projeto foi desenvolvido utilizando **Python 3.12** e requer a instalação do **Miniconda** para gerenciamento de ambientes virtuais.
 
 ### Instalando o Python
 
